@@ -32,8 +32,8 @@
             //                    |     | LWR | ENT |   | SPC | RSE  |       |
 
             bindings = <
-&kp TAB     &kp Q        &kp W       &kp E         &kp R       &kp T      &kp Y      &kp U       &kp I         &kp O       &kp DELETE         &kp BACKSPACE
-&kp ESC     &hm LCTRL A  &hm LALT S  &hm LSHIFT D  &hm LGUI F  &kp G      &kp H      &hm RGUI J  &hm RSHIFT K  &hm RALT L  &hm RCTRL P        &kp CAPS
+&kp TAB     &kp Q        &kp W       &kp E         &kp R       &kp T      &kp Y      &kp U       &kp I         &kp O       &kp P              &kp BACKSPACE
+&kp ESC     &hm LCTRL A  &hm LALT S  &hm LSHIFT D  &hm LGUI F  &kp G      &kp H      &hm RGUI J  &hm RSHIFT K  &hm RALT L  &kp RCTRL          &kp CAPS
 &kp LSHIFT  &kp Z        &kp X       &kp C         &kp V       &kp B      &kp N      &kp M       &kp COMMA     &kp DOT     &kp C_VOLUME_DOWN  &kp C_VOLUME_UP
                                      &mo 2         &kp LCMD    &kp RET    &kp SPACE  &mo 1       &mo 3
             >;
